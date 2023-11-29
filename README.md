@@ -1,2 +1,2 @@
 # WebScrapingSelenium
-Extrae la información de cada personaje (elemento, rareza, arma, objetos).
+Extrae la información de cada personaje de Genshin Impact (elemento, rareza, arma, objetos).
